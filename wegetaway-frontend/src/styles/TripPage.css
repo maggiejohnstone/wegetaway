@@ -1,0 +1,33 @@
+.Main {
+    width: 100vw;
+    height: 100vh;
+    background-color: #413356;
+    text-align: center;
+    padding: 40px 0px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+.PageContent {
+    background-color: #584B6B;
+    color: #2C203F;
+    height: 60%;
+    padding: 20px;
+    margin: auto;
+}
+
+.date {
+    font-size: 15px;
+    color: #584B6B;
+    margin-bottom: 20px;
+}
+
+.button {
+    background-color: #2C203F;
+    color: #584B6B;
+    width: 110px;
+    border-radius: 10px;
+    margin: auto;
+}

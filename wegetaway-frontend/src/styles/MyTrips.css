@@ -1,0 +1,33 @@
+.MyTrips {
+    text-align: center;
+    background-color: #413356;
+    width: 100vw;
+    height: 100vh;
+    padding: 60px 0px;
+}
+
+h1 {
+    color: #584B6B;
+
+}
+
+.TripName {
+    color: #584B6B;
+    font-size: 20px;
+    padding: 20px 5px;
+}
+
+.LinkBody {
+    width: 30%;
+    margin: auto;
+    background-color: #2C203F;
+}
+
+.LinkBody :hover {
+    background-color: #584B6B;
+    color: #2C203F;
+}
+
+.userImage {
+    width: 200px;
+}
