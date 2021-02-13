@@ -1,0 +1,7 @@
+.menu {
+    width: 100%;
+    border-radius: 0px!important;
+    position: fixed;
+    bottom: 0;
+    height: 70px;
+}
